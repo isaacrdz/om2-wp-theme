@@ -12,72 +12,63 @@
 <div class="services-wrapper">
 <i class="ion-document"></i>
 <h3>Diseño Web</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p>Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-scissors"></i>
 <h3>Social Media</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-clipboard"></i>
 <h3>SEO</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-calendar"></i>
 <h3>Campañas Google</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-erlenmeyer-flask"></i>
 <h3>Campañas Sociales</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-monitor"></i>
 <h3>Estrategia Digital</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-pinpoint"></i>
 <h3>Identidad Corporativa</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-tshirt-outline"></i>
 <h3>Mkt Couching</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-speedometer"></i>
 <h3>Eventos</h3>
-Morbi mollis lectus et ipsum sollicitudin varius.
-Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+<p class="text-shadow">Morbi mollis lectus et ipsum sollicitudin varius.Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.</p>	
 </div>
 </div>
 </div>

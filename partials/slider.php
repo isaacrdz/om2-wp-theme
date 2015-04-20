@@ -12,7 +12,7 @@
 Satisfacción
 </h3>
 
-Encontraste la combinación perfecta de elementos para satisfacer las necesidades de comunicación, publicidad e imagen de tu marca o negocio.
+<p class="text-shadow ">Encontraste la combinación perfecta de elementos para satisfacer las necesidades de comunicación, publicidad e imagen de tu marca o negocio.</p>
 
 </div>
 <div class="item">
@@ -20,7 +20,7 @@ Encontraste la combinación perfecta de elementos para satisfacer las necesidade
 Trabajo en Equipo
 </h3>
 
-Nuestro equipo está conformado por piezas claves cada una en su ramo para tener una amplia visión del panorama actual.
+<p class="text-shadow ">Nuestro equipo está conformado por piezas claves cada una en su ramo para tener una amplia visión del panorama actual.</p>
 </div>
 
 </div>
@@ -35,10 +35,10 @@ Nuestro equipo está conformado por piezas claves cada una en su ramo para tener
 <div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-8 col-lg-offset-2 scroll-me">
 
 
-<p >
+<div class="social">
+<p class="text-shadow" >
 También somos sociales
 </p>
-<div class="social">
 <a href="#" class="btn button-custom btn-custom-one" ><i class="fa fa-facebook "></i></a>
 <a href="#" class="btn button-custom btn-custom-one" ><i class="fa fa-twitter"></i></a>
 <a href="#" class="btn button-custom btn-custom-one" ><i class="fa fa-google-plus "></i></a>

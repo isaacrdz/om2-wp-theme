@@ -155,10 +155,12 @@ padding: 50px 20px 5px 50px;
 #carousel-slider h3 {
 line-height: 50px;
 font-family: 'Oswald', sans-serif;
+text-shadow: 1px 1px #4C4C4C;
+
 }
 
 #carousel-slider p {
-color: rgb(40, 141, 203);
+color: white;
 font-size: 16px;
 line-height: 25px;
 margin: 25px 20px;
@@ -189,6 +191,12 @@ background-color: rgba(255, 255, 255, 0.20);
 #services h3 {
 font-family: 'Oswald', sans-serif;
 text-shadow: 1px 1px #4C4C4C;
+}
+
+#services p {
+font-family: 'Oswald', sans-serif;
+text-shadow: 1px 1px #4C4C4C;
+text-transform: initial;
 }
 
 #services .services-wrapper i {
@@ -436,4 +444,15 @@ font-size:10px;
 
 color:#fff;
 text-decoration:none;
+}
+
+.text-shadow
+{
+	text-shadow: 1px 1px #4C4C4C;
+
+}
+
+.font-color-white
+{
+	color: white;
 }
