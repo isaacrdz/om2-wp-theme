@@ -12,6 +12,7 @@ get_header();
 	<?php include (TEMPLATEPATH. '/partials/services.php') ?>
 	<?php include (TEMPLATEPATH. '/partials/work.php') ?>
 	<?php include (TEMPLATEPATH. '/partials/team.php') ?>    
+	<?php include (TEMPLATEPATH. '/partials/contact.php') ?>    
 	
 
 

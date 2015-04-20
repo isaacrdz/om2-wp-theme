@@ -430,7 +430,9 @@ margin-bottom: 40px;
 min-height:200px;
 }
 #contact .contact-wrapper h3 {
-color:rgb(40, 141, 203);
+color:white;
+text-shadow: 1px 1px #4C4C4C;
+
 }
 #contact .social-below {
 display: block;
@@ -456,3 +458,21 @@ text-decoration:none;
 {
 	color: white;
 }
+
+/*Contact Form*/
+
+
+form input, textarea
+	{
+		background-color:rgba(255, 255, 255, 0.1);
+		border-radius: 5px;
+		border:none;
+		min-height:40px;
+		padding: 1em;	
+		
+	}
+
+form input[type=submit]
+	{
+		background-color:blue;
+	}

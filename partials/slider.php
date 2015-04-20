@@ -46,7 +46,7 @@ También somos sociales
 <a href="#" class="btn button-custom btn-custom-one" ><i class="fa fa-instagram "></i></a>
 <a href="#" class="btn button-custom btn-custom-one" ><i class="fa fa-github "></i></a>
 </div>
-<a href="#" class=" btn button-custom btn-custom-two">¿Cual es tu proyecto? </a>
+<a href="#" class=" btn btn-lg button-custom btn-custom-two">¿Cual es tu proyecto? </a>
 </div>
 </div>
 </div>
