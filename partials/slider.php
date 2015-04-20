@@ -11,15 +11,15 @@
 <h3>
 Satisfacción
 </h3>
-<p>
+
 Encontraste la combinación perfecta de elementos para satisfacer las necesidades de comunicación, publicidad e imagen de tu marca o negocio.
-</p>
+
 </div>
 <div class="item">
 <h3>
 Trabajo en Equipo
 </h3>
-<p>
+
 Nuestro equipo está conformado por piezas claves cada una en su ramo para tener una amplia visión del panorama actual.
 </div>
 

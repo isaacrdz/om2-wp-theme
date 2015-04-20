@@ -23,7 +23,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/1.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/1.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/1.jpg" class="img-responsive img-rounded" alt="" />
 </a>
@@ -34,7 +34,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html css">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/2.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/2.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/2.jpg" class="img-responsive img-rounded" alt="" />
 </a>
@@ -45,7 +45,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 code script">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/3.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/3.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/3.jpg" class="img-responsive img-rounded" alt="" />
 </a>
@@ -56,7 +56,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html script">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/4.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/4.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/4.jpg" class="img-responsive img-rounded" alt="" />
 </a>
@@ -67,7 +67,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html code">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/5.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/5.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/5.jpg" class="img-responsive img-rounded" alt="" />
 </a>
@@ -78,7 +78,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 script">
 <div class="work-wrapper">
 
-<a class="fancybox-media" title="Image Title Goes Here" href="assets/img/portfolio/6.jpg">
+<a class="fancybox-media" title="Image Title Goes Here" href="<?php bloginfo('template_url') ?>/img/portfolio/6.jpg">
 
 <img src="<?php bloginfo('template_url') ?>/img/portfolio/6.jpg" class="img-responsive img-rounded" alt="" />
 </a>

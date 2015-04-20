@@ -13,7 +13,8 @@
 				<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-	<img src="http://lorempixel.com/750/300/" class="img-responsive img-rounded" alt="">
+	<?php if ( has_post_thumbnail() ) { the_post_thumbnail ('blog-item',array('class'=>'img-responsive img-round')); } ?>
+	
 	<h2> <?php the_title() ?> </h2>
 	<p> <?php the_excerpt() ?> </p>
 	<a class="btn btn-primary" href="<?php the_permalink() ?> ">Leer más</a>

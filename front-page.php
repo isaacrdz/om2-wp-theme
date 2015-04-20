@@ -10,8 +10,8 @@ get_header();
 
 	<?php include (TEMPLATEPATH. '/partials//slider.php') ?>	
 	<?php include (TEMPLATEPATH. '/partials/services.php') ?>
-	<?php include (TEMPLATEPATH. '/partials/pricing.php') ?>    
 	<?php include (TEMPLATEPATH. '/partials/work.php') ?>
+	<?php include (TEMPLATEPATH. '/partials/team.php') ?>    
 	
 
 

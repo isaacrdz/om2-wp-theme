@@ -3,7 +3,7 @@
 <div class="container">
 <div class="row text-center header">
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 animate-in" data-anim-type="fade-in-up">
-<h3>Our Services</h3>
+<h3>Lo que hacemos </h3>
 <hr />
 </div>
 </div>
@@ -11,7 +11,7 @@
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-document"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Diseño Web</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -19,7 +19,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-scissors"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Social Media</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -27,7 +27,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-clipboard"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>SEO</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -35,7 +35,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-calendar"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Campañas Google</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -43,7 +43,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-erlenmeyer-flask"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Campañas Sociales</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -51,7 +51,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-monitor"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Estrategia Digital</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -59,7 +59,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-pinpoint"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Identidad Corporativa</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -67,7 +67,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-tshirt-outline"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Mkt Couching</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>
@@ -75,7 +75,7 @@ Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="services-wrapper">
 <i class="ion-speedometer"></i>
-<h3>Consectetur tellus nec</h3>
+<h3>Eventos</h3>
 Morbi mollis lectus et ipsum sollicitudin varius.
 Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
 </div>

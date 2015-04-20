@@ -43,8 +43,9 @@ VAGAS SLIDESHOW SCRIPTS
 ======================================*/
 $.vegas('slideshow', {
 backgrounds: [
-{ src: 'http://www.om2.com.mx/wp-content/themes/om2/img/1.jpg', fade: 1000, delay: 9000 },
-{ src: 'http://www.om2.com.mx/wp-content/themes/om2/img/2.jpg', fade: 1000, delay: 9000 },
+{ src: 'http://www.om2.com.mx/wp-content/themes/om2/img/3.jpg', fade: 1000, delay: 9000 },
+{ src: 'http://www.om2.com.mx/wp-content/themes/om2/img/4.jpg', fade: 1000, delay: 9000 },
+{ src: 'http://www.om2.com.mx/wp-content/themes/om2/img/5.jpg', fade: 1000, delay: 9000 },
 ]
 })('overlay', {
 /** SLIDESHOW OVERLAY IMAGE **/
