@@ -467,12 +467,12 @@ form input, textarea
 		background-color:rgba(255, 255, 255, 0.1);
 		border-radius: 5px;
 		border:none;
-		min-height:40px;
-		padding: 1em;	
+		padding: 1em;
+		width: 100%;
 		
 	}
 
 form input[type=submit]
 	{
-		background-color:blue;
+		background-color:#337AB7;
 	}

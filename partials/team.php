@@ -40,7 +40,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="team-wrapper">
-					<div class="team-inner" style="" >
+					<div class="team-inner" style="background-image: url('<?php bloginfo('template_url') ?>/img/team/alicia.jpg')" >
 
 						<a href="#" target="_blank" > <i class="fa fa-twitter" ></i></a>
 					</div>

@@ -6,32 +6,32 @@
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<h3>Blog </h3>
 				<hr />
-			</div>
-		</div>
-		<div class="row animate-in" data-anim-type="fade-in-up">
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+				</div>
+				</div>
+			<div class="row animate-in" data-anim-type="fade-in-up">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
 				<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-	<?php if ( has_post_thumbnail() ) { the_post_thumbnail ('blog-item',array('class'=>'img-responsive img-round')); } ?>
-	
-	<h2> <?php the_title() ?> </h2>
-	<p> <?php the_excerpt() ?> </p>
-	<a class="btn btn-primary" href="<?php the_permalink() ?> ">Leer más</a>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
-<br>
-<hr>
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<?php if ( has_post_thumbnail() ) { the_post_thumbnail ('blog-item',array('class'=>'img-responsive img-round')); } ?>
+
+				<h2> <?php the_title() ?> </h2>
+				<p> <?php the_excerpt() ?> </p>
+				<a class="btn btn-primary" href="<?php the_permalink() ?> ">Leer más</a>
+				<br>
+				<br>
+				<br>
+				<br>
+				</div>
+				<br>
+				<hr>
 
 
-<?php endwhile; else : ?>
-<p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
-<?php endif; ?>
+				<?php endwhile; else : ?>
+				<p><?php _e( 'Sorry, no posts matched your criteria.' ); ?></p>
+				<?php endif; ?>
 			</div>
-<?php get_sidebar()?>
+			<?php get_sidebar()?>
 		</div>
 	</div>
 </section>

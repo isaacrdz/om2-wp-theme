@@ -9,7 +9,7 @@
 
 	register_sidebar(array(
 		'name' => 'Sidebar',
-		'before_widget' => '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">',
+		'before_widget' => '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">',
 		'after_widget' => '</section">',
 		'before_title' => '<h2">',
 		'after_title' => '</div">',
